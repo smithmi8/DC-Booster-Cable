@@ -1,0 +1,30 @@
+DC Booster Cable
+ 
+
+**** Supplies Needed For This Project **** 
+(1) Old Firefly cable with desired length
+https://shootfirefly.com/pages/product-details
+
+(1) COVVY DC to DC Step Up Boost Converter MT3608 
+https://www.amazon.com/dp/B07SF5N184?psc=1&ref=ppx_yo2_dt_b_product_details
+
+(4) uxcell M3x5mm Machine Screws Pan Phillips Cross Head Screw 304 Stainless Steel Fasteners Bolts 100Pcs  - These are the typical screw used for mounting PC motherboards or PCBs
+https://www.amazon.com/gp/product/B07MF31JJ6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+Download and print one set of DC Booster clips (1) DC Booster Clip Top.stl and (1) DC Booster Clip Bottom.stl
+
+ 
+**** Procedure for Making Cable ****
+1.	Splice into cable a few feet from the end. Only expose 1/2 – 7/8" of the black and white wire inside.
+2.	Strip away 3/16 – 1/4" of wire from both the black and white wire.
+3.	Solder the white wire from the cable end that connects to the FireFly to the +In solder pad. You can stick part of the wire through the hole on the pad to make it easier to solder and to ensure good connection.
+4.	Solder the black wire from the cable end that connects to the FireFly to the -In solder pad. You can stick part of the wire through the hole on the pad to make it easier to solder and to ensure good connection.
+5.	Solder the white wire from the cable end that connects your sequencer to the +Out solder pad using the same procedure from before.
+6.	Solder the white wire from the cable end that connects your sequencer to the +Out solder pad using the same procedure from before.
+7.	Apply power to the cable by pressing a test fire or from a socket connected to a power supply unit.
+8.	Connect a bolt meter to the exposed wires on the end of the cable to touching the +Out and –Out solder pads.
+9.	Adjust the brass screw on the DC to DC step up / booster MT3608 to desire voltage.
+10.	Place assembly into the 3D print booster clip
+11.	Ensure the black cable casing is placed inside the booster clip so the clip will clamp around the cable when closed (see image below).
+ 
+12.	Secure lid using (4) M3x5mm pan head machine screws. (These are the typical screws used for mounting PC mother boards or PCB boards.)
